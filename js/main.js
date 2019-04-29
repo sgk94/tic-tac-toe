@@ -5,21 +5,6 @@ const COLORS = {
     '0': 'white'
 };
 
-            // const winTwo = 
-
-            // const winThree = 
-
-            // const winFour =
-
-            // const winFive =
-
-            // const winSix =
-
-            // const winSeven =
-
-            // const winEight =
-
-
 /*----- app's state (variables) -----*/ 
 var board, winner, turn;
 
